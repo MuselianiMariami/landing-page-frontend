@@ -1,1 +1,2 @@
-# landing-page-frontend
+# news-homepage
+Live - https://muselianimariami.github.io/news-homepage/
